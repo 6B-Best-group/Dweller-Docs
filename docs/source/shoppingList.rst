@@ -1,7 +1,7 @@
 Shopping list information
 ==========================
 
-This page is aimed at future developers of the applications
+This page is aimed at future developers of the application.
 
 
 Design alterations

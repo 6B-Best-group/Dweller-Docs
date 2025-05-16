@@ -42,9 +42,26 @@ Shopping list
 ------------------------
 The shopping list feature allows users to add items the household needs to buy and share them with the other members
 of the house. Each item holds a name and quanity for the user. 
+This displays:
+    - Each item the house would like to buy
+    - a button to add am item
+    - a button to remove an unwanted list item
+    - a button to record an item has been puchaseed
+
+There are two dialog boxes one is used for adding items and a quanity. The other is used
+for recording the ccost of an item.
+
+This page was designed to simple and easy to navigate so has a simple list design.
+
+There is also a button which takes the user to the spending page.
 
 Spending page
 --------------------------------
-There is also a button which takes the user to the spending page allowing them to see what they have spent over the course of
-their tenancy. This updates as the 
+The spending page allows users to see what they have spent over the course of
+their tenancy. This updates as items are removed from the shopping list.
 
+There is no inputs for this page to prevent tampering.
+
+Each user can see all other house memebers:
+    - Name
+    - Spending for the total time they are in the house
