@@ -27,8 +27,11 @@ Allows the user to set general and weekly repeating chores. There are two tabs: 
 
 RotaItem
 ~~~~~~~~
+
 Consists of:
+
 - ``thumbnail`` - used to display information depending on the type of chore rota.
+
 - ``choreName`` - similar to a `title` on a ``listTile()``, displayed in large text the chore rota's name.
 - ``assignee`` - displays who's turn it currently is. Located underneath ``choreName``.
 - ``nextAssignee`` - displays who's turn it will be when the rota increments. Located underneath ``assignee``.
