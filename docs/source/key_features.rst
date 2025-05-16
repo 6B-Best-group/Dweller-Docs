@@ -15,6 +15,7 @@ Profile page
 ---------------------------
 Holds data about the user and house information such as the bin days
 
+
 Bin rota
 -----------------------------
 Allows the user to log the day and time of thier recycling and general waste collection

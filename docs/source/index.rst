@@ -23,3 +23,4 @@ Contents
    dataInfo
    user_profile_page
    homepage
+   shoppingList
