@@ -25,3 +25,4 @@ Contents
    homepage
    calendar_page
    group_chat_page
+   shoppingList
