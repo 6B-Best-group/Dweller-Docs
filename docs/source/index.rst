@@ -23,4 +23,6 @@ Contents
    dataInfo
    user_profile_page
    homepage
+   calendar_page
+   group_chat_page
    shoppingList
