@@ -4,7 +4,7 @@ Key Features
 
 Action log
 --------------------------------
-Keeps a record of actions taken by the user across the app.
+Displays a record of actions taken by the user across the app. Stores instances of `ActionLogNotification()` which takes 2 parameters - `notificationName` and `notificationDetail`. Additionally, when an instance of this class is declared, it initialises a DateTime variable `dateAdded` that calls DateTime.now() to log when this action was done.
 
 Bin rota
 -----------------------------
@@ -30,5 +30,5 @@ of the house. Each item holds a name and quanity for the user.
 Spending page
 --------------------------------
 There is also a button which takes the user to the spending page allowing them to see what they have spent over the course of
-thier tenancy. This updates as the 
+their tenancy. This updates as the 
 
